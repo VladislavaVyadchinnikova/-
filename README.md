@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Вядчинникова В.Д.
+- https://colab.research.google.com/drive/1Qn5q60opY5ok1evWrPOc8B_gErxXybmF#scrollTo=gxbsthpAYaXT
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
